@@ -11,8 +11,6 @@ def game():
             stopgame = True
         if((two_to_one_dimension_matrix(matrix)).count('-') == 0):
             stopgame = True
-
-
     if(pobeda == True):
         if(hod_x==False):
             print('Победили крестики')
