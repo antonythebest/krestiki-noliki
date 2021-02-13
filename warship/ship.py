@@ -48,7 +48,7 @@ class Ship:
         except Exception as e:
             print(e)
 
-Ship.test_create_ship(6,'f')
+Ship.test_create_ship(6,'в')
 
 
 
